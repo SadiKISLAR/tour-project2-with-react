@@ -64,6 +64,10 @@ body {
   color: var(--clr-grey-1);
   line-height: 1.5;
   font-size: 0.875rem;
+  background-image: url("http://www.brandlifemag.com/wp-content/uploads/2017/05/dunyaplajlari_05.jpg");
+  background-position: center;
+  background-repeat: repeat-y;
+  background-attachment: fixed;
 }
 ul {
   list-style-type: none;
